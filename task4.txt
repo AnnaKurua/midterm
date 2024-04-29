@@ -1,0 +1,20 @@
+Set of all different words:
+[tea, rabbit, minivan, entanglement, investment, scratch, drums, wing, wine, wind, object, eraser, flight, accessories, spiral, charcoal, surgery, dijkstra, pad, speakers, monarchy, visibility, cryptography, wire, neural, elasticity, interface, illumination, coffee, pliers, pen, fiber, bulb, statics, intelligence, binary, plumage, circuit, honesty, linear, sandpaper, framework, cow, automation, burger, bookkeeping, lake, fruit, decoherence, countryside, trigonometry, lamp, doctor, sketch, led, advertising, integrity, mountain, liberty, merge, dumplings, clay, pop, depreciation, team, religion, claw, watch, fashion, apparel, accounting, hat, budget, brush, jacket, measure, disease, finance, savings, hardware, laws, webcam, enterprise, computer, helmet, solidarity, ledger, wealth, fetch, quick, beak, hip, orthodox, socks, tree, history, wagon, banking, bike, hospital, therapy, chic, acoustics, dew, opportunity, treatment, hop, robotics, journal, chip, dots, shoes, london, branding, passport, bird, coupe, train, graph, sakartvelo, ethernet, tackle, analytical, training, dimmer, screwdriver, monitor, biochemistry, beach, royalty, fluorescent, tablet, hook, kitten, balance, song, topology, printer, inorganic, field, dog, nurse, map, health, machine, bait, usb, inheritance, credit, pressure, sort, meow, principles, kinetics, quantum, racket, ball, leadership, physical, execution, thread, backpack, reggae, cover, precipitation, palette, hamster, teleportation, industry, temperature, equality, entrepreneur, hatchback, democracy, diary, chopin, supra, fish, geometry, tatra, motorcycle, bark, kennel, greedy, suitcase, collection, campaign, pierogi, commerce, thermochemistry, organic, feline, kinematics, guitar, money, calculator, stapler, classical, uniform, writing, culture, textiles, avian, theater, cleaner, fixture, speaker, network, differential, paper, fairness, performance, growth, saxophone, laptop, economy, planning, forest, ambient, highlighter, batumi, mechanics, canine, leash, notes, warsaw, microphone, binder, vibrations, shade, respect, traditions, pharmacy, income, jeans, pasta, lizard, scissors, airplane, number, algorithm, system, connector, catholic, air, bubble, morality, electronic, species, glove, net, runway, expense, amplifier, exceptioan, rod, coaxial, pencil, strategy, ship, cake, dance, gaming console, reel, angler, telescope, algebra, diversity, nest, administration, jazz, mouse, trumpet, patriotism, whisker, truck, book, pizza, brightness, duty, microprocessor, thermodynamics, cast, piano, catch, canvas, probability, tunneling, phone, style, freedom, scooter, architecture, conductor, shirt, organization, veterinarian, board, statistics, cloud, rain, violin, hdmi, glamour, market, marker, polyphony, microscope, hospitality, profit, convertible, saw, sandwich, designer, vistula, equity, bat, humidity, fluid, cinema, globe, puppy, folk, tabby, responsibility, innovation, litter, couture, river, superposition, scarf, language, programming, khachapuri, knife, debt, deep, content, class, digital, football, breed, management, promotion, feather, sky, electrochemistry, lure, literature, tradition, camera, corporate, sedan, fur, pants, hashing, skirt, sushi, level, diagnosis, wrench, hammer, keyboard, social, control, drill, salad, paint, calculus, dynamics, trends, horse, suv, audit, toaster, flower, bus, country, tv, headphones, ruler, dynamic, uv, ocean, desk, learning, blues, virtue, flute, migration, software, efficiency, collar, caucasus, method, purr, tbilisi, rock, power, dress, easel, data, sales, router, justice, notebook, tax, chemicalop, insulation, line, snake, computing, car, cat, motion, cuisine]
+
+
+Map of word lengths and their occurrences:
+Length 2: 13 word(s)
+Length 3: 170 word(s)
+Length 4: 310 word(s)
+Length 5: 515 word(s)
+Length 6: 489 word(s)
+Length 7: 476 word(s)
+Length 8: 355 word(s)
+Length 9: 180 word(s)
+Length 10: 222 word(s)
+Length 11: 109 word(s)
+Length 12: 96 word(s)
+Length 13: 15 word(s)
+Length 14: 32 word(s)
+Length 15: 10 word(s)
+Length 16: 9 word(s)
